@@ -1,0 +1,17 @@
+{
+  "name": "todo-mvc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "src/deps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luigy Leon <luichi.19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dom-delegator": "^12.0.0",
+    "todomvc-app-css": "^1.0.1",
+    "virtual-dom": "^1.2.0"
+  }
+}
